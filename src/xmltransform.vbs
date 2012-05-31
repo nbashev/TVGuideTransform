@@ -1,7 +1,6 @@
-'v0.1 - 2011 Oct 16/?
+'v0.2 - 2012 Apr 20
 'The script opens dvblink's channel storage, finds logical channel name and
-'frequency and writes the values to a m3u file
-'Thank you very much for your help vuego over at MediaPortal forums
+'frequency and writes the values to a tvguide.xml and channel.xml files
 
 strEPGStorage = "eitscanner_epg.xml"
 
